@@ -33,7 +33,7 @@ print 'hello world'
 ----------
 
 下面列出了一些Git/Github/Markdown的参考教程，同学们努力学习哦，现在只能靠自己啦~<br>
-1、不用全部看完，只要大致明白下面的几个知识点就能开工干活啦<br>
+1、不用全部看完，只要大致掌握下面的几个知识点就能开工干活啦<br>
 > * 注册Github账号，生成SSH公钥和密钥
 > * Github创建仓库/Fork仓库
 > * Clone仓库到本地(git clone)
