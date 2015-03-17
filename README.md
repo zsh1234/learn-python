@@ -1,5 +1,7 @@
 # learn-python
 
+2014/2015年第2学期《Python语言与算法》课程的编程作业仓库，祝同学们学习愉快，愿2015是我们进步的一年^_^<br>
+
 一段简单的hello world，走起!
 ```python
 #没有比这个更简单的Hello World程序了~~~~
