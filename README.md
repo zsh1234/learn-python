@@ -50,7 +50,9 @@ print 'hello world'
 
 
 ----------
-
+##基本电脑常识
+- [win7电脑怎样修改环境变量][26]
+- [win7系统中如何使文件显示出扩展名][27]
 
 ##使用Github的缘由
 - [有效提升大學生競爭力 -- 用 Git Pull Request 收作業][17]
@@ -109,6 +111,8 @@ print 'hello world'
 [23]:http://www.google.com.hk/
 [24]:https://www.baidu.com/s?wd=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91&rsv_spt=1&issp=1&f=8&rsv_bp=0&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_enter=1&rsv_sug3=2&rsv_sug1=2&rsv_sug2=0&inputT=2661&rsv_sug4=2661
 [25]:http://site.douban.com/196781/widget/notes/12161495/note/264946576/
+[26]:http://jingyan.baidu.com/article/b24f6c82cba6dc86bfe5da9f.html
+[27]:http://jingyan.baidu.com/article/9080802281e294fd91c80fe4.html
 ----------
 
 ##附录：msysgit中文乱码问题解决方法<br>
