@@ -85,16 +85,22 @@ print '加权平均分:', jq
 - [有效提升大學生競爭力 -- 用 Git Pull Request 收作業][17]
 - [国内有哪些大学使用GitHub Education？][18]
 
+##Windows版本的Git安装程序
+- [msysgit][31]
+
 ## 一、Github入门教程
 - [手把手教你最简单的开源项目托管GitHub入门教程][1]
 - [github简单使用教程][14]
-
+- [windows下使用git及github仓库管理项目 入门][30]
+- [git使用简易指南][28]
+- [写给Git初学者的7个建议][29]
+- 
 ##二、Git进阶教程
  - [《廖雪峰git教程》][2]
  - [《Pro Git》中文版][3]
 
 ##三、Github的Fork与Pull-Request教程
-- [视频-github 上 fork 和 pull request 的工作流][5]
+- [【视频】github 上 fork 和 pull request 的工作流][5]
 - [如何在github上fork一个项目来贡献代码以及同步原作者的修改][4]
 - [在Github和Git上fork之简单指南][6]
 - [GitHub将Fork来的Project合并到原Project - Folk和Pull Request模式][7]
@@ -139,6 +145,11 @@ print '加权平均分:', jq
 [25]:http://site.douban.com/196781/widget/notes/12161495/note/264946576/
 [26]:http://jingyan.baidu.com/article/b24f6c82cba6dc86bfe5da9f.html
 [27]:http://jingyan.baidu.com/article/9080802281e294fd91c80fe4.html
+[28]:http://www.bootcss.com/p/git-guide/
+[29]:http://blog.jobbole.com/50603/
+[30]:http://blog.sina.com.cn/s/blog_700aa8830101kdp3.html
+[31]:http://msysgit.github.io/
+
 ----------
 
 ##附录：msysgit中文乱码问题解决方法<br>
