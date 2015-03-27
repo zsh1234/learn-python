@@ -94,9 +94,8 @@ print '加权平均分:', jq
  - [《Pro Git》中文版][3]
 
 ##三、Github的Fork与Pull-Request教程
-- [一个叫阳志平写的Github与Markdown博客文章][25]
+- [视频-github 上 fork 和 pull request 的工作流][5]
 - [如何在github上fork一个项目来贡献代码以及同步原作者的修改][4]
-- [github 上 fork 和 pull request 的工作流][5]
 - [在Github和Git上fork之简单指南][6]
 - [GitHub将Fork来的Project合并到原Project - Folk和Pull Request模式][7]
 - [使用GitHub][8]
@@ -111,7 +110,7 @@ print '加权平均分:', jq
 - [Markdown快速入门][9]
 - [Markdown教程][10]
 - [Markdown入门][11]
-
+- [一个叫阳志平写的Github与Markdown博客文章][25]
 ----------
 [1]:http://jingyan.baidu.com/article/f7ff0bfc7181492e27bb1360.html
 [2]:http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
