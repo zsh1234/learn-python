@@ -75,7 +75,7 @@ git是一个软件，需要我们下载并安装，而Github是一个依托Git提供服务的一个网站，需要
  - [msysgit][31]
  - [Github for Windows][34]
 
-其中Github for Windows是Github官方开发的，但很多开发者认为这个软件使用起来不方便，问题多多，因此使用最广泛是msysgit。不知道什么原因，国内屏蔽了amazon的云服务，而msysgit的安装程序又是放在amazon上的，所以导致无法下载。我以前给同学们拷贝的资料里有一个Git-1.9.4-preview20140611.exe安装程序，用这个就行。
+其中Github for Windows是Github官方开发的，但很多开发者认为这个软件使用起来不方便，问题多多，因此使用最广泛是msysgit。不知道什么原因，国内屏蔽了amazon的云服务，而msysgit的安装程序是放在amazon云上的，所以无法下载。我以前给同学们拷贝的资料里有Git-1.9.4-preview20140611.exe安装程序，用这个就行。
 
 ##Windows版本的Git安装程序
 - [msysgit][31]
