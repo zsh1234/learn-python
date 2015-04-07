@@ -1,106 +1,119 @@
 # learn-python
 
-2014/2015年第2学期《Python语言与算法》课程的练习、作业和资料仓库，祝同学们学习愉快，愿2015是我们进步的一年^_^<br>
+2014/2015���2ѧ�ڡ�Python�������㷨���γ̵���ϰ����ҵ�����ϲֿ⣬ףͬѧ��ѧϰ��죬Ը2015�����ǽ�����һ��^_^<br>
 
-一段简单的hello world，走起!
+һ�μ򵥵�hello world������!
 ```python
-#没有比这个更简单的Hello World程序了~~~~
+#û�б�������򵥵�Hello World������~~~~
 print 'hello world'
 ```
 
-关于本仓库的目录结构说明：<br>
-1、README.md就是本页面的内容<br>
-2、*test*文件夹用于存放课堂和上机讲的一些**练习**代码，如果有需要我会单独放在test文件夹里<br>
-3、*homework*文件夹用于存放每一次布置的**作业**（收集同学们的作业和我自己写的作业答案）<br>
-4、**练习**和**作业**文件夹里的内容一般会按照编号命名<br>
-5、*doc*文件夹则会存放一些收集的python资料，比如pdf电子书，代码等等<br>
+���ڱ��ֿ��Ŀ¼�ṹ˵����<br>
+1��README.md���Ǳ�ҳ�������<br>
+2��*test*�ļ������ڴ�ſ��ú��ϻ�����һЩ**��ϰ**���룬�������Ҫ�һᵥ������test�ļ�����<br>
+3��*homework*�ļ������ڴ��ÿһ�β��õ�**��ҵ**���ռ�ͬѧ�ǵ���ҵ�����Լ�д����ҵ�𰸣�<br>
+4��**��ϰ**��**��ҵ**�ļ����������һ��ᰴ�ձ������<br>
+5��*doc*�ļ��������һЩ�ռ���python���ϣ�����pdf�����飬����ȵ�<br>
 
-##*以后有新的消息都会这个页面更新，请同学们实时关注~*
-
-----------
-
-###公告
-- **时间**：2015/03/20  **内容**第一个练习<br> **说明**：课堂PPT的P62页:练习(2)-加权平均分计算<br> **参考**：test/test01.py
-- **时间**：2015/03/27  **内容**：第一次作业<br> **说明**：课堂PPT的P78-P84页任选2个完成，通过Pull-Request发送到我的github仓库<br>
-- **时间**：2015/04/06  **内容**：[挑战Python][32](不是作业)<br> **说明**：它有 33 个关卡(谜题)，有兴趣的同学可以挑战一下哟~<br>
+##*�Ժ����µ���Ϣ�������ҳ����£���ͬѧ��ʵʱ��ע~*
 
 ----------
 
-首先要向各位同学宣布几个不幸的消息：
- > 1. 这门课程是第一次开设；
- > 2. 这门课程会布置一定量的编程作业；
- > 3. 这门课程要求同学们编写代码；
- > 4. 这门课程要求同学们用[Github][19]交作业；
- > 5. 这门课程不会在课堂上讲授如何使用[Github][19]；
- > 6. 这门课程的综合训练项目要求同学们合作完成；
- > 7. 综合训练项目要求用[Markdown][20]语法编写文档；
- > 8. 抛弃***Word***、抛弃***QQ***、抛弃***邮箱***，使用[Github][19]交流!
+###����
+- **ʱ��**��2015/03/20  **����**��һ����ϰ<br> **˵��**������PPT��P62ҳ:��ϰ(2)-��Ȩƽ���ּ���<br> **�ο�**��test/test01.py
+- **ʱ��**��2015/03/27  **����**����һ����ҵ<br> **˵��**������PPT��P78-P84ҳ��ѡ2����ɣ�ͨ��Pull-Request���͵��ҵ�github�ֿ�<br>
+- **ʱ��**��2015/04/06  **����**��[��սPython][32](������ҵ)<br> **˵��**������ 33 ���ؿ�(����)������Ȥ��ͬѧ������սһ��Ӵ~<br>
+
+----------
+
+����Ҫ���λͬѧ�����������ҵ���Ϣ��
+ > 1. ���ſγ��ǵ�һ�ο��裻
+ > 2. ���ſγ̻᲼��һ�����ı����ҵ��
+ > 3. ���ſγ�Ҫ��ͬѧ�Ǳ�д���룻
+ > 4. ���ſγ�Ҫ��ͬѧ����[Github][19]����ҵ��
+ > 5. ���ſγ̲����ڿ����Ͻ������ʹ��[Github][19]��
+ > 6. ���ſγ̵��ۺ�ѵ����ĿҪ��ͬѧ�Ǻ�����ɣ�
+ > 7. �ۺ�ѵ����ĿҪ����[Markdown][20]�﷨��д�ĵ���
+ > 8. ����***Word***������***QQ***������***����***��ʹ��[Github][19]����!
  
-注1：某位老师喜欢追逐时髦技术，所以通风14级的2个班不幸成为了首块试验田`(*∩_∩*)′<br>
-注2：使用Github的Fork+Pull-Request模式可以看出同学们是否自己写代码，相当给力Y(^o^)Y~<br>
-注3：有些同学不加思考的抄袭是老师们心中的痛啊→_→ <br>
-注4：努力学习吧，抱怨是解决不了问题滴~<br>
+ע1��ĳλ��ʦϲ��׷��ʱ�ּ���������ͨ��14����2���಻�ҳ�Ϊ���׿�������`(*��_��*)��<br>
+ע2��ʹ��Github��Fork+Pull-Requestģʽ���Կ���ͬѧ���Ƿ��Լ�д���룬�൱����Y(^o^)Y~<br>
+ע3����Щͬѧ����˼���ĳ�Ϯ����ʦ�����е�ʹ����_�� <br>
+ע4��Ŭ��ѧϰ�ɣ���Թ�ǽ�����������~<br>
 
 ----------
 
-下面列出了一些Git/Github/Markdown的参考教程，同学们努力学习哦，现在只能靠自己啦~<br>
-1、不用全部看完，只要大致掌握下面的几个知识点就能开工干活啦<br>
-> * 注册Github账号，生成SSH公钥和密钥
-> * Github创建仓库/Fork仓库
-> * Clone仓库到本地(git clone)
-> * 新建/删除/切换分支(git branch / git checkout)
-> * 修改/提交(git add / git commit / git gui)
-> * 推送(git push)和更新(git pull)
-> * Fork + Pull-Request的使用方法
+�����г���һЩGit/Github/Markdown�Ĳο��̳̣�ͬѧ��Ŭ��ѧϰŶ������ֻ�ܿ��Լ���~<br>
+1������ȫ�����ֻ꣬Ҫ������������ļ���֪ʶ����ܿ����ɻ���<br>
+> * ע��Github�˺ţ�����SSH��Կ����Կ
+> * Github�����ֿ�/Fork�ֿ�
+> * Clone�ֿ⵽����(git clone)
+> * �½�/ɾ��/�л���֧(git branch / git checkout)
+> * �޸�/�ύ(git add / git commit / git gui)
+> * ����(git push)�͸���(git pull)
+> * Fork + Pull-Request��ʹ�÷���
 
-2、学习技术不要像学数学语文那样一字一字的读，要学会快速阅读，多动手实践，写的次数多了自然就会了<br>
-3、信息大爆炸时代学会用搜索引擎查资料是必备的技能啊<br>
-|| [百度][21]  ||  [必应][22]  ||  [Google][23] ||
+2��ѧϰ������Ҫ��ѧ��ѧ��������һ��һ�ֵĶ���Ҫѧ������Ķ����ද��ʵ����д�Ĵ���������Ȼ�ͻ���<br>
+3����Ϣ��ըʱ��ѧ������������������Ǳر��ļ��ܰ�<br>
+|| [�ٶ�][21]  ||  [��Ӧ][22]  ||  [Google][23] ||
 
-4：***Google***已死，请学会[科学上网][24]
+4��***Google***��������ѧ��[��ѧ����][24]
 
 
 ----------
-##基本电脑常识
-- [win7电脑怎样修改环境变量][26]
-- [win7系统中如何使文件显示出扩展名][27]
+##�������Գ�ʶ
+- [win7���������޸Ļ�������][26]
+- [win7ϵͳ�����ʹ�ļ���ʾ����չ��][27]
 
-##使用Github的缘由
-- [有效提升大學生競爭力 -- 用 Git Pull Request 收作業][17]
-- [国内有哪些大学使用GitHub Education？][18]
+##ʹ��Github��Ե��
+- [��Ч������W�������� -- �� Git Pull Request �����I][17]
+- [��������Щ��ѧʹ��GitHub Education��][18]
 
-##Windows版本的Git安装程序
+##Git��Github�򵥽���
+git��һ����������Ҫ�������ز���װ����Github��һ������Git�ṩ�����һ����վ����Ҫע���˺Ų���ʹ�ã����һ���Ҫ���Git������������ʹ�á�<br>
+Windowsϵͳ�µ�Git����Ŀǰ��2������ѡ��
+
+ - [msysgit][31]
+ - [Github for Windows][34]
+
+����Github for Windows��Github�ٷ������ģ����ܶ࿪������Ϊ�������ʹ�����������㣬�����࣬���ʹ����㷺��msysgit��<br>
+��֪��ʲôԭ�򣬹���������amazon���Ʒ��񣬶�msysgit�İ�װ�������Ƿ���amazon�ϵģ����Ե����޷����ء�<br>
+����ǰ��ͬѧ�ǿ�������������һ��Git-1.9.4-preview20140611.exe��װ������������С�
+
+##Windows�汾��Git��װ����
 - [msysgit][31]
 
-## 一、Github入门教程
-- [手把手教你最简单的开源项目托管GitHub入门教程][1]
-- [github简单使用教程][14]
-- [windows下使用git及github仓库管理项目 入门][30]
-- [git使用简易指南][28]
-- [写给Git初学者的7个建议][29]
+ע����װmsysgit�����ʹ�����Դ���Git Bash������������������⣬��ͬѧ�ǲο���doc/msysgit������������������.txt��
+
+## һ��Github���Ž̳�
+- [�ְ��ֽ�����򵥵Ŀ�Դ��Ŀ�й�GitHub���Ž̳�][1]
+- [github��ʹ�ý̳�][14]
+- [windows��ʹ��git��github�ֿ������Ŀ ����][30]
+- [gitʹ�ü���ָ��][28]
+- [д��Git��ѧ�ߵ�7������][29]
 - 
-##二、Git进阶教程
- - [《廖雪峰git教程》][2]
- - [《Pro Git》中文版][3]
+##����Git���׽̳�
+ - [����ѩ��git�̡̳�][2]
+ - [��Pro Git�����İ�][3]
 
-##三、Github的Fork与Pull-Request教程
-- [【视频】github 上 fork 和 pull request 的工作流][5]
-- [如何在github上fork一个项目来贡献代码以及同步原作者的修改][4]
-- [在Github和Git上fork之简单指南][6]
-- [GitHub将Fork来的Project合并到原Project - Folk和Pull Request模式][7]
-- [使用GitHub][8]
-- [如何在GitHub上协作开发开源项目？][13]
+##����Github��Fork��Pull-Request�̳�
+- [����Ƶ��github �� fork �� pull request �Ĺ�����][5]
+- [�����github��forkһ����Ŀ�����״����Լ�ͬ��ԭ���ߵ��޸�][4]
+- [��Github��Git��fork֮��ָ��][6]
+- [GitHub��Fork����Project�ϲ���ԭProject - Folk��Pull Requestģʽ][7]
+- [Git������ָ�ϣ�Pull Request������][33]
+- [ʹ��GitHub][8]
+- [�����GitHub��Э��������Դ��Ŀ��][13]
 - [GotGitHub][15]
-- [如何向开源社区提问题][16]
+- [�����Դ����������][16]
 
-##四、Markdown在线编辑器
-- [Cmd Makrdown编辑器][12]
+##�ġ�Markdown���߱༭��
+- [Cmd Makrdown�༭��][12]
 
-##五、Markdown入门教程
-- [Markdown快速入门][9]
-- [Markdown教程][10]
-- [Markdown入门][11]
-- [一个叫阳志平写的Github与Markdown博客文章][25]
+##�塢Markdown���Ž̳�
+- [Markdown��������][9]
+- [Markdown�̳�][10]
+- [Markdown����][11]
 
 ----------
 [1]:http://jingyan.baidu.com/article/f7ff0bfc7181492e27bb1360.html
@@ -135,37 +148,5 @@ print 'hello world'
 [30]:http://blog.sina.com.cn/s/blog_700aa8830101kdp3.html
 [31]:http://msysgit.github.io/
 [32]:http://www.pythontip.com/coding/code_oj
-
-----------
-
-##附录：msysgit中文乱码问题解决方法<br>
-###[git初始设置]<br>
-安装完git之后的**第一件事**就是设置user和email<br>
-打开git bash<br>
-git config --global user.name xxx<br>
-git config --global user.email xxx@xxx.com<br>
-
-###[msysgit中文乱码问题]<br>
-假设git安装目录：$Git_Root=C:\develop\Tool\Git<br>
-则git的所有配置文件都在$Git_Root\etc路径下<br>
-**1、修改inputrc**<br>
-set meta-flag on<br>
-set input-meta on<br>
-set output-meta on<br>
-set convert-meta off<br>
-**2、修改gitconfig**<br>
-添加<br>
-[core]<br>
-autoctrlf = true<br>
-删除<br>
-[i18n]<br>
-**3、修改git-completion.bash**<br>
-末尾添加<br>
-alias ls='ls --show-control-chars --color=auto'<br>
-**4、修改profile**<br>
-按Ctrl+f搜索utf-8<br>
-export LESSCHARSET=utf-8<br>
-**5、Git Gui中查看UTF-8编码的文本文件时乱码**
-在Bash提示符下输入：git config --global gui.encoding utf-8<br>
-
-注：通过上述设置，UTF-8编码的文本文件可以正常查看，但是GBK编码的文件将会乱码，所以还是没有从根本上解决问题。可行的方法之一为：将所有文本文件的编码统一为UTF-8
+[33]:http://blog.jobbole.com/76854/
+[34]:https://windows.github.com/
