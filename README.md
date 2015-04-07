@@ -70,15 +70,12 @@ print 'hello world'
 - [国内有哪些大学使用GitHub Education？][18]
 
 ##Git和Github简单介绍
-git是一个软件，需要我们下载并安装，而Github是一个依托Git提供服务的一个网站，需要注册账号才能使用，而且还需要配合Git软件才能正常使用。<br>
-Windows系统下的Git软件目前有2个可以选择：
+git是一个软件，需要我们下载并安装，而Github是一个依托Git提供服务的一个网站，需要注册账号才能使用，而且还需要配合Git软件才能正常使用。Windows系统下的Git软件目前有2个可以选择：
 
  - [msysgit][31]
  - [Github for Windows][34]
 
-其中Github for Windows是Github官方开发的，但很多开发者认为这个软件使用起来不方便，问题多多，因此使用最广泛是msysgit。<br>
-不知道什么原因，国内屏蔽了amazon的云服务，而msysgit的安装程序又是放在amazon上的，所以导致无法下载。<br>
-我以前给同学们拷贝的资料里有一个Git-1.9.4-preview20140611.exe安装程序，用这个就行。
+其中Github for Windows是Github官方开发的，但很多开发者认为这个软件使用起来不方便，问题多多，因此使用最广泛是msysgit。不知道什么原因，国内屏蔽了amazon的云服务，而msysgit的安装程序又是放在amazon上的，所以导致无法下载。我以前给同学们拷贝的资料里有一个Git-1.9.4-preview20140611.exe安装程序，用这个就行。
 
 ##Windows版本的Git安装程序
 - [msysgit][31]
